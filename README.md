@@ -155,3 +155,4 @@ Generates an optimized bundle in `dist/` with zero TypeScript errors.
 5. **Switch to Dr. Thorne (Admin):**
    - Open **Safety & Audit** (`/admin-dashboard`), review PRN verification requests, unmask PRNs with authorized toggle, approve tutor applications, and inspect the tamper-evident audit log.
 6. **Reset Anytime:** Click **"Reset to Clean"** in the banner to return to empty production state.
+ OUR PROJECT PRESENTATION LINK:- https://youtu.be/7gB51PPXNpI?si=CGO6tF4UZnBcqoRY 
